@@ -1,15 +1,12 @@
 ---
-title: Home
+title: "<span style='font-size: 50px'>Subcontractor Fiscal Reporting for CalFresh Outreach FFY 25-27</style>"
 ---
 
-# Center for Healthy Communities 
-# Subcontractor Fiscal Reporting for CalFresh Outreach FFY 25-27
-
-<img src="chc-logo.png" alt="CHC logo" width="30%"/>
+![](chc-logo.svg){width=50% fig-align="center"}
 
 This site is the Fiscal Document Reporting site for CFO Partner Locations. Please use the upload widgets below to submit your quarterly reporting documents. For our home page visit [Center For Healthy Communities - CSU Chico](https://chcchicostate.org/)
 
-----
+------------------------------------------------------------------------
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(dplyr)
@@ -19,7 +16,6 @@ library(DT)
 sbs <- read_excel("sbs_tef.xlsx")
 ```
 
-
 **Before submitting make sure the name of your files contain both the quarter (eg. Q3) and the short code name for your campus. Search the table below to find your campus short code name.**
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
@@ -27,7 +23,7 @@ datatable(sbs, class = 'cell-border stripe', rownames = FALSE,
           options = list(pageLength = 5))
 ```
 
-----
+------------------------------------------------------------------------
 
 ```{css, echo=FALSE}
 th, td {
@@ -35,7 +31,6 @@ th, td {
   border: 1px solid black;
 }
 ```
-
 
  <table style="width:100%">
   <tr>
