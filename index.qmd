@@ -9,7 +9,7 @@ format:
 
 ![](chc-logo.svg){width="50%" fig-align="center"}
 
-This site is the Fiscal Document Reporting site for CFO Partner Locations. Please use the upload widgets below to submit your quarterly reporting documents. For our home page visit [Center For Healthy Communities - CSU Chico](https://chcchicostate.org/)
+This site is the Fiscal Document Reporting site for CFO Partner Locations. Please use the upload widget below to submit your quarterly reporting documents. For our home page visit [Center For Healthy Communities - CSU Chico](https://chcchicostate.org/)
 
 ------------------------------------------------------------------------
 
@@ -39,12 +39,10 @@ th, td {
 }
 ```
 
- <table style="width:100%">
-  <tr>
-    <td><iframe src="https://csuchico.app.box.com/f/b4937190d4874b60a128d3dacdcd4f8b" height="500" width="475"></iframe></td>
-    <td><iframe src="https://csuchico.app.box.com/f/befab10aae7749118d2a2b7dbe5a3155" height="500" width="475"></iframe></td>
-  </tr>
-</table> 
 
-<br><br>
+<div style="text-align:center;">
+  <iframe src="https://csuchico.app.box.com/f/f917a2c36dfa41419bb9ed4577bdfa6f" height="700" width="800" style="border: 1px solid #000;"></iframe>
+</div>
+
+<br>
 
